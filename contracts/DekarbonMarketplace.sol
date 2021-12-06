@@ -88,6 +88,3 @@ contract DekarbonMarketplace {
   }
 }
 
-//TODO:
-// - don't support bidding
-// - the user can't withdraw the item
